@@ -1,0 +1,31 @@
+{
+    "name": "bp-color-library",
+    "version": "1.0.0",
+    "description": "A library to get color names by their color codes.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest",
+      "build": "webpack",
+      "start": "node src/index.js"
+    },
+    
+    "keywords": ["color", "hex", "bp", "library"],
+    "author": "Bhathiya Prasad <bhathiya@example.com>",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bhathiyaprasad/bp-color-library.git"
+    },
+    "bugs": {
+      "url": "https://github.com/bhathiyaprasad/bp-color-library/issues"
+    },
+    "homepage": "https://github.com/bhathiyaprasad/bp-color-library#readme",
+    "dependencies": {
+      "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+      "jest": "^29.2.1"
+    }
+    
+  }
+  
