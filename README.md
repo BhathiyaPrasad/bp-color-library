@@ -10,6 +10,18 @@
 2. Flexible: Works seamlessly with JavaScript and modern frameworks.
 3. Useful: Ideal for design systems, educational tools, or any project dealing with colors.
 
+## 🛠 Usage
+
+```bash
+const { getColorName } = require('bp-color-library');
+```
+For testing
+
+```bash
+console.log(getColorName('#add8e6')); 
+```
+
+
 ## 📝 Documentation
 
 ### Function : getColorName
