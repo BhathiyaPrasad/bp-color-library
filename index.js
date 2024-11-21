@@ -1,4 +1,4 @@
-import colorNameList from "../src/data/colornames.json";
+import colorNameList from "./data/colornames.json";
 
 export function getColorName(hex) {
   const match = colorNameList.find(color => color.hex.toLowerCase() === hex.toLowerCase());
