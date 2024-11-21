@@ -69,4 +69,4 @@ string: The corresponding color name, or "Unknown color" if the HEX code is not 
 **If you have any questions, suggestions, or feedback, feel free to reach out:**
 
 1. Open an issue on GitHub: GitHub Issues
-2. Contact the author: Bhathiya Prasad
+2. Contact the author: [Bhathiya Prasad](@BhathiyaPrasad)
