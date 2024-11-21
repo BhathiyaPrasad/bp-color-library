@@ -1,32 +1,8 @@
+
 # BP Color Library 🌈
 
 **BP Color Library** is a lightweight and straightforward utility for developers to fetch color names by providing HEX color codes. Simplify your design and development workflows with this easy-to-use library.
 
----
-
-## 🚀 Installation
-
-You can install this library using npm. Run the following command:
-
-```bash
-npm install bp-color-library
-```
-
-##  Usage
-
- Import the function from the library
-
-```bash
-import { getColorName } from "bp-color-library";
-
-```
- Example usage
-
-```bash
-const colorName = getColorName("#FF5733");
-console.log(colorName); // Output: Tomato Red (or the corresponding name)
-
-```
 
 ## 🌟 Features
 
