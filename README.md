@@ -21,7 +21,6 @@ For testing
 console.log(getColorName('#add8e6')); 
 ```
 
-
 ## 📝 Documentation
 
 ### Function : getColorName
