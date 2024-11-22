@@ -46,6 +46,9 @@ string: The corresponding color name, or "Unknown color" if the HEX code is not 
 4. **Sponsor me on GitHub**  
    If you'd like to support my work, you can sponsor me on GitHub:  
    [Sponsor Bhathiya Prasad on GitHub](https://github.com/sponsors/BhathiyaPrasad)
+5. If you enjoy my work, consider buying me a coffee to show your support:
+   [Buy Me a Coffee](https://buymeacoffee.com/bhathiyaprasad)
+
 
 ## Visit the repository here
 
