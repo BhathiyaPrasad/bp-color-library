@@ -12,11 +12,15 @@
 3. Useful: Ideal for design systems, educational tools, or any project dealing with colors.
 
 ## 🛠 Usage
-
+Run
 ```bash
+npm i bp-color-library
+```
+Import
+```bach
 const { getColorName } = require('bp-color-library');
 ```
-For testing
+Testing
 
 ```bash
 console.log(getColorName('#add8e6')); 
