@@ -1,4 +1,5 @@
 
+
 # BP Color Library 🌈
 
 **BP Color Library** is a lightweight and straightforward utility for developers to fetch color names by providing HEX color codes. Simplify your design and development workflows with this easy-to-use library.
@@ -60,3 +61,5 @@ string: The corresponding color name, or "Unknown color" if the HEX code is not 
 
 1. Open an issue on GitHub: GitHub Issues
 2. Contact the author: [Bhathiya Prasad](@BhathiyaPrasad)
+
+![final 2](https://github.com/user-attachments/assets/5f09e56e-bde4-4d48-ab89-bc612ec5bb83)
